@@ -1,0 +1,4 @@
+- add button of deleting
+- add button of copy
+- measure the strength of the generated password
+- pronounce the password (option)
